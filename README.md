@@ -4,7 +4,7 @@
 **Registration Number:** 24MIP10023
 **Course:** CSE0002 — Open Source Software | VIT Bhopal University
 **Software Audited:** VLC Media Player (LGPL v2.1 / GPL v2)
-**Repository:** oss-audit-24BEY10009
+**Repository:** oss-audit-24MIP10023
 
 ---
 
